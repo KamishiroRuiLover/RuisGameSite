@@ -1,1 +1,7 @@
 Let's make a game!
+    name:Femboy Clicker
+    by:KamishiroRui
+    desc:I don't know what I'm doing
+    created:27/7/2025
+    updated:27/7/2025
+    version:1
